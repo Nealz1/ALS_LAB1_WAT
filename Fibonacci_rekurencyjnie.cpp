@@ -1,11 +1,3 @@
-//============================================================================
-//                  Algorytmy i Struktury Danych
-// Zadanie 1.2
-//  Fibonacci rekurencyjnie
-//
-//  WCY21IX4S0  Miksiewicz Pawel
-//============================================================================
-
 #include <iostream>
 #include <fstream>
 #include <string>
