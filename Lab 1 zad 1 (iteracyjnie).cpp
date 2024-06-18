@@ -1,17 +1,9 @@
-//============================================================================
-//                  Algorytmy i Struktury Danych
-// Zadanie 1.1
-//  Silnia iteracyjnie
-//
-//  WCY21IX4S0  Miksiewicz Pawel
-//============================================================================
-
 #include <cstdlib>
 #include <iostream>
 
 using namespace std;
 
-int silnia(int n) //od 2 do liczby
+int silnia(int n)
 {
 	int licz = 1;
 	for(int i = 2; i<=n;i++)
