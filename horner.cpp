@@ -1,11 +1,3 @@
-//============================================================================
-//                  Algorytmy i Struktury Danych
-// Zadanie 1.3
-// Algorytm zwykly i Hornera
-//
-//  WCY21IX4S0  Miksiewicz Pawel
-//============================================================================
-
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -22,7 +14,7 @@ int main()
 	cout << "Podaj a2, a1, a0, x" << endl;
 	cin >> a2 >> a1 >> a0 >> x;
 	
-	//ALGORYTM ZWYK£Y
+	//ALGORYTM ZWYKÂ£Y
 	w1 = a2*x*x;
 	w1 = w1+a1*x;
 	w1 = w1+a0;
