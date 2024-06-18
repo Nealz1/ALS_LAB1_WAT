@@ -1,11 +1,3 @@
-//============================================================================
-//                  Algorytmy i Struktury Danych
-// Zadanie 1.1
-//  Silnia rekurencyjnie
-//
-//  WCY21IX4S0  Miksiewicz Pawel
-//============================================================================
-
 #include <cstdlib>
 #include <iostream>
 
