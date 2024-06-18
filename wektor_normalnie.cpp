@@ -1,11 +1,3 @@
-//============================================================================
-//                  Algorytmy i Struktury Danych
-// Zadanie 1.5
-//  Maksymalna i minimalna wartoœæ wektora X (normalnie)
-//
-//  WCY21IX4S0  Miksiewicz Pawel
-//============================================================================
-
 #include <iostream>
 #include <iostream>
 #include <fstream>
